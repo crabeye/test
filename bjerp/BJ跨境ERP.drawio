@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T03:35:44.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jk8EnLmBDkDBdJl9kzXQ" border="50" scale="3" compressed="false" locked="false" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T02:06:00.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="nscMQ3y8Lw9MwQmEkbCF" border="50" scale="3" compressed="false" locked="false" version="24.5.5" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="2226" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -92,6 +92,47 @@
         </mxCell>
         <mxCell id="IaBcJYwee6fV4r0CMXtV-33" value="数据权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="202" width="72" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaBcJYwee6fV4r0CMXtV-35" target="IaBcJYwee6fV4r0CMXtV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-35" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="706.5" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaBcJYwee6fV4r0CMXtV-36" target="IaBcJYwee6fV4r0CMXtV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-36" value="选择投广告的商品" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="690" width="113" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaBcJYwee6fV4r0CMXtV-38" target="IaBcJYwee6fV4r0CMXtV-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-38" value="填写广告创建的基础信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="690" width="113" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-40" value="选择广告基础结构" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="14" y="690" width="113" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="IaBcJYwee6fV4r0CMXtV-43" parent="1" source="IaBcJYwee6fV4r0CMXtV-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144" y="731" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaBcJYwee6fV4r0CMXtV-43" target="IaBcJYwee6fV4r0CMXtV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-43" value="制定命名规则" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="174" y="690" width="113" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaBcJYwee6fV4r0CMXtV-45" target="IaBcJYwee6fV4r0CMXtV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-45" value="调整创建信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="690" width="113" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IaBcJYwee6fV4r0CMXtV-47" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="512" y="706.5" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
